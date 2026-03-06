@@ -1,0 +1,11 @@
+{
+    "promedio_general": 8.466666666666667,
+    "edad_maxima": 22,
+    "edad_minima": 20,
+    "conteo_carreras": {
+        "Ingeniería": 1,
+        "Matemática": 1,
+        "Física": 1
+    },
+    "total_estudiantes": 3
+}
