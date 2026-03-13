@@ -1,0 +1,47 @@
+PS C:\Users\holiw\OneDrive\Documentos\DATAMANAGER> python main.py
+
+--- DataManager CLI ---
+1 - Cargar datos
+2 - Filtrar
+3 - Ordenar
+4 - Mostrar estadísticas
+5 - Exportar resultados
+6 - Salir
+Elige una opción: 1
+Se cargaron 3 estudiantes.
+
+--- DataManager CLI ---
+1 - Cargar datos
+2 - Filtrar
+3 - Ordenar
+4 - Mostrar estadísticas
+5 - Exportar resultados
+6 - Salir
+Elige una opción: 4
+
+Estadisticas:
+promedio_general: 8.466666666666667
+edad_maxima: 22
+edad_minima: 20
+conteo_carreras: {'Ingeniería': 1, 'Matemática': 1, 'Física': 1}
+total_estudiantes: 3
+
+--- DataManager CLI ---
+1 - Cargar datos
+2 - Filtrar
+3 - Ordenar
+4 - Mostrar estadísticas
+5 - Exportar resultados
+6 - Salir
+Elige una opción: 5
+Resultados guardados exitosamente en resultados.json
+
+--- DataManager CLI ---
+1 - Cargar datos
+2 - Filtrar
+3 - Ordenar
+4 - Mostrar estadísticas
+5 - Exportar resultados
+6 - Salir
+Elige una opción: 6
+Saliendo del programa...
